@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Test Unity Project
 
 This repository contains a Unity project for testing purposes. The project is set up to demonstrate integration with GitHub for version control.
@@ -51,3 +52,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Unity Technologies for the Unity Engine.
 - GitHub for version control and repository hosting.
+=======
+# test-unity
+>>>>>>> e611e1cba1ba9af02d36d2f5fae6c87280b65532

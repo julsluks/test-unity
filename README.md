@@ -1,57 +1,39 @@
-<<<<<<< HEAD
-# Test Unity Project
+# High Link
 
-This repository contains a Unity project for testing purposes. The project is set up to demonstrate integration with GitHub for version control.
+## Descripción
 
-## Getting Started
+**High Link** es un emocionante juego cooperativo de plataformas donde dos jugadores deben trabajar en equipo para ascender a través de diferentes niveles. Unidos por una cuerda elástica, cada jugador controla a un personaje con habilidades únicas, lo que requiere una coordinación precisa para superar los desafíos.
 
-### Prerequisites
+### Mecánicas del juego
 
-- Unity Hub
-- Unity Editor (version 2020.3 or later)
-- Git
+- **Personaje 1 - El Ágil:** Posee la habilidad de *súper salto*, permitiéndole alcanzar plataformas elevadas y ayudar a su compañero a ascender.
+- **Personaje 2 - El Fuerte:** Tiene *súper fuerza*, lo que le permite sujetar y lanzar al compañero o mover obstáculos pesados.
+- **Cuerda dinámica:** Ambos jugadores están conectados por una cuerda elástica que afecta su movilidad y estrategia.
 
-### Installation
+### Características principales
 
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/your-username/test-unity.git
-    ```
-2. Open Unity Hub and add the cloned project.
-3. Open the project in Unity Editor.
+- **Juego cooperativo en línea** donde cada jugador usa un dispositivo diferente.
+- **Mecánica innovadora** basada en la cuerda que une a los personajes.
+- **Habilidades complementarias** que fomentan la cooperación estratégica.
+- **Niveles desafiantes** con plataformas móviles, acertijos y obstáculos dinámicos.
+- **Estilo visual vibrante** con animaciones fluidas y una experiencia inmersiva.
 
-### Usage
+### Cómo jugar
 
-- Make changes to the project in Unity Editor.
-- Save your changes and commit them using Git:
-    ```sh
-    git add .
-    git commit -m "Your commit message"
-    git push origin main
-    ```
+1. Conéctate con un amigo, cada uno desde su dispositivo.
+2. Coordinen sus movimientos utilizando la cuerda a su favor.
+3. Usen sus habilidades especiales para sortear obstáculos y alcanzar la meta.
+4. ¡Sincronización y trabajo en equipo son clave para la victoria!
 
-## Contributing
+¿Listos para escalar juntos y demostrar su conexión como equipo?  
+¡El ascenso comienza ahora! 🚀  
 
-1. Fork the repository.
-2. Create a new branch:
-    ```sh
-    git checkout -b feature/your-feature-name
-    ```
-3. Make your changes and commit them.
-4. Push to the branch:
-    ```sh
-    git push origin feature/your-feature-name
-    ```
-5. Open a pull request.
+## Desarrolladores
+- **Arnau Fernández** - *Diseño de niveles y mecánicas* - [@ArnauFernández](https://github.com/Arnau-fg)
+- **Julie Villegas** - *Programación y animación* - [@JulieVillegas](https://www.linkedin.com/in/julievillegas77/)
 
-## License
+## Estado de el Proyecto:
+* Comenzando la fase de diseño y prototipado.
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Unity Technologies for the Unity Engine.
-- GitHub for version control and repository hosting.
-=======
-# test-unity
->>>>>>> e611e1cba1ba9af02d36d2f5fae6c87280b65532
+## Gestor de tareas:
+* [Taiga](https://tree.taiga.io/project/julsluks-tr3-g6/backlog)
